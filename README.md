@@ -19,9 +19,3 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 Users should be able to:
 
 - See hover states for interactive elements
-
-### Screenshot
-
-![Order summary component desktop screenshot](./screenshot/order-summary-component-desktop-screenshot.png)
-
-![Order summary component mobile screenshot](./screenshot/order-summary-component-mobile-screenshot.png)
